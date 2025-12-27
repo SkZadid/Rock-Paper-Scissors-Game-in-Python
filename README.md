@@ -8,7 +8,7 @@ A simple Python implementation of the classic Rock Paper Scissors game where you
 3. Computer randomly chooses
 4. See who wins based on standard rules
 
-## Rules
+## ⭕ Important Rules
 - Rock beats Scissors
 - Scissors beats Paper  
 - Paper beats Rock
